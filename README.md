@@ -1,3 +1,4 @@
 # Animated-Penguin-using-basic-HTML-and-CSS
-A penguin wit animated hands!! 
+:bird:
+A penguin with animated hands!! 
 :dizzy:
